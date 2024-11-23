@@ -1,4 +1,4 @@
-# penguin-clustering-project.
+# penguin-clustering-project
 This project involved clustering a dataset of penguins to group species effectively and facilitate improved data analysis and recording.
 Below is a detailed overview of the steps and methodologies used:
 
